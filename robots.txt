@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bsmit43.github.io/notes-tlslq4/sitemap.xml
